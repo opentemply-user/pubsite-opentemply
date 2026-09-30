@@ -1,4 +1,11 @@
+# Robots.txt for OpenTemply
 User-agent: *
 Allow: /
 
+# Disallow non-indexable checkout and system routes
+Disallow: /*/paypal/
+Disallow: /*/404
+Disallow: /api/
+
+# Master Sitemap Index
 Sitemap: https://opentemply.com/sitemap.xml
