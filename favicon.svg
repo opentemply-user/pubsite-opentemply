@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <path id="ot-icon-B" d="M-.377-7.49A7.501 7.501 0 0 0-7.484-.479c-4.264 66.799-11.826 133.22-22.686 199.262a7.501 7.501 0 0 0 1.307 5.59l93.301 130a7.501 7.501 0 0 0 6.092 3.127h100.49a7.501 7.501 0 0 0 6.094-3.127l93.301-130a7.501 7.501 0 0 0-1.752-10.488A5482.56 5482.56 0 0 1 4.703-5.842 7.501 7.501 0 0 0-.377-7.49zm6.781 22.139C87.138 79.317 169.61 141.69 253.865 201.705L167.172 322.5H74.379l-89.275-124.393C-4.99 137.277 2.05 76.116 6.404 14.648z"/>
+    <path id="ot-icon-C" d="M120.77 252.5a7.501 7.501 0 0 0-6.092 3.127l-50.24 70a7.501 7.501 0 0 0 6.092 11.873h100.49a7.501 7.501 0 0 0 6.094-11.873l-50.25-70a7.501 7.501 0 0 0-6.094-3.127zm.002 20.361l35.633 49.639h-71.26z"/>
+  </defs>
+  <!-- High-contrast dark badge designed for Google Search light and dark results -->
+  <rect width="128" height="128" rx="28" fill="#0F172A"/>
+  <!-- Centered geometric star in crisp white -->
+  <g transform="matrix(0.125 0.0335 -0.0335 0.125 64 64)">
+    <g transform="rotate(0)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+    <g transform="rotate(72)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+    <g transform="rotate(144)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+    <g transform="rotate(216)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+    <g transform="rotate(288)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+  </g>
+</svg>
