@@ -4,13 +4,13 @@
     <path id="ot-icon-C" d="M120.77 252.5a7.501 7.501 0 0 0-6.092 3.127l-50.24 70a7.501 7.501 0 0 0 6.092 11.873h100.49a7.501 7.501 0 0 0 6.094-11.873l-50.25-70a7.501 7.501 0 0 0-6.094-3.127zm.002 20.361l35.633 49.639h-71.26z"/>
   </defs>
   <!-- High-contrast dark badge designed for Google Search light and dark results -->
-  <rect width="128" height="128" rx="28" fill="#0F172A"/>
+  <rect width="128" height="128" rx="28" fill="#FFFFFF"/>
   <!-- Centered geometric star in crisp white -->
   <g transform="matrix(0.125 0.0335 -0.0335 0.125 64 64)">
-    <g transform="rotate(0)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
-    <g transform="rotate(72)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
-    <g transform="rotate(144)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
-    <g transform="rotate(216)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
-    <g transform="rotate(288)"><use href="#ot-icon-B" fill="#FFFFFF"/><use href="#ot-icon-C" fill="#FFFFFF"/></g>
+    <g transform="rotate(0)"><use href="#ot-icon-B" fill="#0F172A"/><use href="#ot-icon-C" fill="#0F172A"/></g>
+    <g transform="rotate(72)"><use href="#ot-icon-B" fill="#0F172A"/><use href="#ot-icon-C" fill="#0F172A"/></g>
+    <g transform="rotate(144)"><use href="#ot-icon-B" fill="#0F172A"/><use href="#ot-icon-C" fill="#0F172A"/></g>
+    <g transform="rotate(216)"><use href="#ot-icon-B" fill="#0F172A"/><use href="#ot-icon-C" fill="#0F172A"/></g>
+    <g transform="rotate(288)"><use href="#ot-icon-B" fill="#0F172A"/><use href="#ot-icon-C" fill="#0F172A"/></g>
   </g>
 </svg>
